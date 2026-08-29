@@ -66,5 +66,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=❤️%20ممنون%20از%20بازدیدتان&fontSize=25&fontColor=white&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=❤️%20%20%20&fontSize=25&fontColor=white&animation=twinkling" width="100%">
 </div>
